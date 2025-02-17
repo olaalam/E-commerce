@@ -1,6 +1,6 @@
 import React from "react";
 import Loading from "./Loading";
-import ProductItem from "./ProductItem";
+import ProductItem from "./Productitem";
 import useProducts from "../hooks/useProducts"; 
 import { Helmet } from "react-helmet";
 

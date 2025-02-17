@@ -1,7 +1,7 @@
 import React, { useState, useEffect ,useContext } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
-import ProductItem from "./ProductItem";
+import ProductItem from "./Productitem";
 import Loading from "./Loading";
 import { useMutation } from "@tanstack/react-query";
 import { addToCart } from "../hooks/useMutationCart";
