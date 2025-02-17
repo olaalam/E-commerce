@@ -1,7 +1,7 @@
 import React from "react";
 import Loading from "./Loading";
 import useProducts from "../hooks/useProducts";
-import Productitem from "./productItem";
+import Productitem from "./Productitem";
 
 export default function FeaturedProducts() {
   const { data: products, isLoading, error, isError } = useProducts();
