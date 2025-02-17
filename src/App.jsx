@@ -13,7 +13,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import Payment from './components/Payment';
 import ProtectedRout from './components/ProtectedRout';
-import Productdetails from './components/productdetails';
+import Productdetails from './components/Productdetails';
 import Orders from './components/Orders';
 import Loading from './components/Loading';
 import Wishlist from './components/Wishlist';
